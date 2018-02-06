@@ -1,0 +1,23 @@
+{
+  "name": "tavro-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-param-env": "^1.2.0",
+    "aws-param-store": "^1.1.0",
+    "aws-sdk": "^2.188.0",
+    "aws-ssm-params": "^1.0.2",
+    "bluebird": "^3.5.1",
+    "install": "^0.10.4",
+    "mailgun-js": "^0.14.2",
+    "mailgun.js": "^2.0.1",
+    "npm": "^5.6.0",
+    "ssm-params": "0.0.6"
+  }
+}
